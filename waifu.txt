@@ -1,0 +1,14 @@
+[
+"desc": "School nurse at Illiya's school.\r\n\r\nShe's often bored and she looked forward the day when one of her patients will be in a serious condition, even tho"
+"image": "https://thicc.mywaifulist.moe/waifus/11454/73c9274b405cc93791493ce0bf9f508b88cf333e83fc094dec86303e995669bc_thumb.jpeg"
+"name": "Caren Ortensia",
+"desc": "Starfire is an alien super-hero with powers of flight and energy projection. Born a princess on the planet Tamaran, she escaped execution at the hands"
+"image": "https://thicc.mywaifulist.moe/waifus/4835/f1c001ecc974aa108a9f4e7b47ce29a89d10040547c4fcb8c468a648f8b6ccd6_thumb.jpeg"
+"name": "Starfire /  Koriand&#039;r",
+"desc": "T\u014dko is Taishi's younger sister. She cares for her brother a lot, but does not show it too much. She's a tsundere."
+"image": "https://thicc.mywaifulist.moe/waifus/14221/ea7ec12123d40ffcfaf128a7a87891d2d7c550bb970272e1ba966cfacb43f17c_thumb.jpeg"
+"name": "T\u014dko Ichimiya",
+"desc": "Lunoire Faust is a waitress at the Hostess of Fertility and a former bounty hunter known as Faust as a member of the Demeter Familia.\n\nLunoire has bro"
+"image": "https://thicc.mywaifulist.moe/waifus/23706/701c58eff8f8fcf9813c0f5d5f3a176ab86e34a2531590b24cc81aa0fd3b7560_thumb.jpeg"
+"name": "Lunoire Faust",
+]
